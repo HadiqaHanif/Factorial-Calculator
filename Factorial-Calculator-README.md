@@ -43,13 +43,5 @@ Enter a number: -3
 Factorial is not defined for negative numbers.
 ```
 
-## 🛠️ Requirements
-- Python 3.x (no external libraries needed)
-
-## 🚀 Possible Improvements
-- Add error handling for non-numeric input
-- Implement a recursive version
-- Compare with Python's built-in `math.factorial()`
-
 ## 🏷️ Topics
 `python` `factorial` `beginner-project` `math` `loops`
