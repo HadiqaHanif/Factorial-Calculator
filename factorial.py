@@ -1,4 +1,6 @@
+#UserData
 n = int(input("Enter a number: "))
+#DicisionMaking
 if n < 0 :
     print("Factorial is not defined for negative numbers.")
 elif n == 0 :
