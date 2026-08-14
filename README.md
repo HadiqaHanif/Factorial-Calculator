@@ -30,14 +30,9 @@
 ## 📖 Table of Contents
 
 - [What is a Factorial?](#-what-is-a-factorial)
-- [How the Code Works](#-how-the-code-works)
 - [Program Flow](#-program-flow)
 - [Full Source Code](#-full-source-code)
-- [Live Output Examples](#-live-output-examples)
 - [Getting Started](#-getting-started)
-- [Edge Cases Handled](#-edge-cases-handled)
-- [Possible Upgrades](#-possible-upgrades)
-- [License](#-license)
 
 ---
 
@@ -154,9 +149,6 @@ else:
 
 <img src="assets/output_zero.png" width="600" alt="factorial of zero output"/>
 
-### 🚫 Negative Number (Error Handling)
-
-<img src="assets/output_negative.png" width="600" alt="factorial of negative number output"/>
 
 </div>
 
@@ -193,28 +185,4 @@ Factorial is: 5040
 | Non-integer input | ⚠️ Will raise a `ValueError` — not currently caught (see upgrades below) |
 
 ---
-
-## 🌱 Possible Upgrades
-
-- [ ] Wrap `int(input(...))` in a `try/except` to gracefully handle invalid (non-numeric) input
-- [ ] Add support for computing factorials via recursion as an alternative implementation
-- [ ] Use Python's built-in `math.factorial()` for comparison/benchmarking
-- [ ] Turn it into a reusable function: `def factorial(n): ...`
-- [ ] Add a loop to let the user calculate multiple factorials without restarting
-- [ ] Support big numbers with progress feedback for very large `n`
-
----
-
-## 📜 License
-
-Released under the **MIT License** — free to use, modify, and share.
-
-<div align="center">
-
-### ⭐ If this helped you understand factorials, consider giving it a star! ⭐
-
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="220"/>
-
-<sub>Made with 🐍 Python and a genuine appreciation for exclamation marks (`n!`)</sub>
-
-</div>
+**Author:** Hadiqa Hanif
