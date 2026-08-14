@@ -30,12 +30,9 @@
 ## 📖 Table of Contents
 
 - [What is a Factorial?](#-what-is-a-factorial)
-- [How the Code Works](#-how-the-code-works)
 - [Program Flow](#-program-flow)
 - [Full Source Code](#-full-source-code)
-- [Live Output Examples](#-live-output-examples)
 - [Getting Started](#-getting-started)
-- [Edge Cases Handled](#-edge-cases-handled)
 - [License](#-license)
 
 ---
@@ -146,7 +143,7 @@ else:
 
 </div>
 
-<p align="center"><sub>📸 Screenshots generated from an actual run of <code>factorial.py</code></sub></p>
+
 
 ---
 
@@ -165,7 +162,7 @@ Enter a number: 7
 Factorial is: 5040
 ```
 
-**Requirements:** Python 3.6+ — nothing else. No `pip install`, no external packages. 🎉
+
 
 ---
 
@@ -190,5 +187,7 @@ Released under the **MIT License** — free to use, modify, and share.
 
 
 <sub>Made with 🐍 Python and a genuine appreciation for exclamation marks (`n!`)</sub>
+
+**Author:** Hadiqa Hanif
 
 </div>
